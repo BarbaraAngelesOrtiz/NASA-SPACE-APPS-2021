@@ -3,16 +3,16 @@ We are Space Collector, a multidisciplinary group of students and professionals 
 
 ![image](https://user-images.githubusercontent.com/105976212/189555601-9ea92638-697f-4122-9756-6e31176b6997.png)
 
-##BACKEND
+## BACKEND
 
-###1) BRIEF AEROSPACE PHYSICAL THEORY ⭐
+### 1) BRIEF AEROSPACE PHYSICAL THEORY ⭐
 A two-line element set (TLE) is a data format encoding a list of orbital elements of an Earth-orbiting object for a given point in time, the epoch. Using a suitable prediction formula, the state (position and velocity) at any point in the past or future can be estimated to some accuracy.
 
 The TLE data representation is specific to the simplified perturbations models (SGP, SGP4, SDP4, SGP8 and SDP8), so any algorithm using a TLE as a data source must implement one of the SGP models to correctly compute the state at a time of interest.
 
 The TLE format is a de facto standard for distribution of an Earth-orbiting object's orbital elements.
 
-###2) IMPLEMENTATION ✅
+### 2) IMPLEMENTATION ✅
 We use Orbit Predictor: is a Python library to propagate orbits of Earth-orbiting objects (satellites, ISS, FENGYUN-1C, etc) using TLE (Two-Line Elements set), based on the SGP4 implementation.
 
 The following spatial tests were analyzed: FENGYUN-1C, COSMOS-970, RUBIN-8 & PSLV R / B, RUBIN-4 & SL-8 R / B, MICROSAT-R DEB and ISS. The input .tle files were pulled from Celestrak.
@@ -25,11 +25,11 @@ Position, speed and mistake made.
 Determine if it is possible to observe this object in our country.
 All the results were applied to our country Argentina (ARG).
 
-###3) CODE 🙌
+### 3) CODE 🙌
 Just download this reposiory and run our main.ipynb.
 
-###4) RESULTS ANALYSIS FOR HUMANS🎯
-####📡 4.1) FENGYUN-1C
+### 4) RESULTS ANALYSIS FOR HUMANS🎯
+#### 📡 4.1) FENGYUN-1C
 When does sat on ARG happen again?
 
 2021-10-03 22: 12: 22.855151
@@ -40,7 +40,7 @@ Speed: (2.3701221267458656, -4.246615675820121, -5.605410824794238)
 Estimated error: None
 Did this satellite pass through ARG at that moment? False
 
-####📡 4.2) COSMOS-970
+#### 📡 4.2) COSMOS-970
 When does the sat happen again on ARG?
 
 2021-10-03 14: 52: 52.039996
@@ -51,7 +51,7 @@ Speed: (- 2.149751825250676, -2.128111442378591, -6.599542110075268)
 Estimated error: None
 Did this satellite pass through ARG at that moment? False
 
-####📡 4.3) RUBIN-8 & PSLV R / B
+#### 📡 4.3) RUBIN-8 & PSLV R / B
 When does the sat happen again on ARG?
 
 2021-10-03 18: 49: 25.065949
@@ -62,7 +62,7 @@ Speed: (1.9814251174607582, 0.5741439594696178, -7.277291551777174)
 Estimated error: None
 Did this satellite pass through ARG at that moment? False
 
-####📡 4.4) RUBIN-4 & SL-8 R / B
+#### 📡 4.4) RUBIN-4 & SL-8 R / B
 When does the sat happen again on ARG?
 
 2021-10-03 17: 01: 44.844248
@@ -73,7 +73,7 @@ Speed: (-0.22524822450832388, 1.156089090332316, -7.412947661395255)
 Estimated error: None
 Did this satellite pass through ARG at that moment? False
 
-####📡 4.5) MICROSAT-R DEB
+#### 📡 4.5) MICROSAT-R DEB
 When does the sat happen again on ARG?
 
 2021-10-03 20: 34: 28.861189
@@ -84,7 +84,7 @@ Speed: (-0.7226887162478327, -3.2645502875856685, 6.428455124184609)
 Estimated error: None
 Did this satellite pass through ARG at that moment? True
 
-####📡 4.6) ISS
+#### 📡 4.6) ISS
 When does sat on ARG happen again?
 
 2021-10-03 18: 24: 55.952657
@@ -95,7 +95,7 @@ Speed: (1.0706020376146572, -4.723614689684127, -6.014517733596158)
 Estimated error: None
 Did this satellite pass through ARG at that moment? False
 
-###Bibliography💬
+### Bibliography💬
 
 [Celestrak](https://celestrak.org/)
 [Satellogic](https://github.com/satellogic/orbit-predictor)
