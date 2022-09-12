@@ -2,10 +2,11 @@
 We are Space Collector, a multidisciplinary group of students and professionals gathered with the shared goal of expanding access to research and spatial information for the community in general.
 
 
-https://user-images.githubusercontent.com/105976212/189557378-f848590f-8714-4f01-bd64-b0796ab50a4f.mp4
-
+[Link to PROJECT "DEMO"](https://www.youtube.com/watch?v=8-dnytkb2to)
 
 ![image](https://user-images.githubusercontent.com/105976212/189555601-9ea92638-697f-4122-9756-6e31176b6997.png)
+
+[LINK TO FINAL PROJECT](https://www.youtube.com/watch?v=Vh0RJ9X_AQM)
 
 
 ## BACKEND
