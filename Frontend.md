@@ -3,4 +3,4 @@
 
 [Demo](http://www.retsagames.com/Friends/SpaceCollector/index.html)
 
-[Demo video](https://user-images.githubusercontent.com/105976212/189556773-3e216d0f-3a76-4729-a2a4-4be25b230952.mp4)
+[Demo_video](https://user-images.githubusercontent.com/105976212/189556773-3e216d0f-3a76-4729-a2a4-4be25b230952.mp4)
