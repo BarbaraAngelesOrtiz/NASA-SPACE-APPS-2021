@@ -131,3 +131,9 @@ If you do not already have a web server, you can use a minimal development web s
 ### Bibliography💬
 
 [World Wind NASA](https://worldwind.arc.nasa.gov/)
+
+##Bussiness Model
+
+![Canvas English](https://user-images.githubusercontent.com/105976212/189558019-5c3735b5-711f-4c23-9d4e-75a1670ae344.png)
+
+
