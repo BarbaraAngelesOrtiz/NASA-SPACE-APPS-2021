@@ -119,7 +119,7 @@ Because WorldWind is completely open source, extending the API is simple and eas
 
 If you do not already have a web server, you can use a minimal development web server built in Node.js:
 
-- [Download] ([Terminado2-20211004T003835Z-001.zip](https://github.com/BarbaraAngelesOrtiz/NASA-SPACE-APPS-2021/files/15314494/Terminado2-20211004T003835Z-001.zip)
+- ![Download] ([Terminado2-20211004T003835Z-001.zip](https://github.com/BarbaraAngelesOrtiz/NASA-SPACE-APPS-2021/files/15314494/Terminado2-20211004T003835Z-001.zip)
  )
 
 ### 3) RESULTS ANALYSIS 🎯
